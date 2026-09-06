@@ -1,0 +1,18 @@
+SECURITY LOG ANALYZER REPORT
+========================================
+
+Total Alerts: 2
+
+Alert Type: BRUTE_FORCE
+IP Address: 192.168.1.50
+Severity: HIGH
+Failed Attempts: 3
+Risk Score: 90/100
+Risk Level: CRITICAL
+
+Alert Type: SUSPICIOUS_IP
+IP Address: 192.168.1.50
+Severity: MEDIUM
+Risk Score: 40/100
+Risk Level: MEDIUM
+
